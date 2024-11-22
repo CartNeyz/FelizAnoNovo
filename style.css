@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://images4.alphacoders.com/303/30304.png)
+}
+
+    .painel {
+        margin: auto;
+        width: 500px;
+        height: 500px;
+        background-color: white;
+        border-radius: 30px;
+        text-align: center;
+        padding-top: 50px;
+        font-family: sans-serift;
+    }
+
+    #sim {
+        height: 40px;
+        width: 60px;
+        background-color: pink;
+        border: 2px solid white;
+        border-radius: 10px;
+        margin-left: -60px;
+    }
+  
+    #nao {
+        position:absolute;
+        height: 40px;
+        width: 60px;
+        background-color: pink;
+        border: 2px solid white;
+        border-radius: 10px;
+        margin-left: 10px;
+    }
+
+   
+   
